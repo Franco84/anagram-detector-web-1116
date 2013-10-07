@@ -9,6 +9,9 @@
 # PS what is %w? 
 # http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean
 
+# Save this file as anagram_spec.rb
+# run it with rspec anagram_spec.rb
+
 RSpec.configure do |config|
   # Use color in STDOUT
   config.color_enabled = true
