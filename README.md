@@ -1,5 +1,5 @@
 ---
-  tags: tdd
+  tags: tdd, todo
   languages: ruby
 ---
 
