@@ -14,5 +14,6 @@ the program should return "inlets".
 PS what is %w?
 http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean
 
-Write your code in anagram_spec.rb
-run it with rspec anagram_spec.rb
+Write your code in anagram.rb.
+
+Run the tests with `rspec`.
