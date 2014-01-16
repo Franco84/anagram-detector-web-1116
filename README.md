@@ -18,3 +18,7 @@ PS. [What is %w?](http://stackoverflow.com/questions/1274675/ruby-what-does-warr
 Write your solution in anagram.rb.
 
 Run the tests with `rspec`.
+
+## Hints
+
+This repository has a branch `hints` that contains some useful tips if you're struggling.
