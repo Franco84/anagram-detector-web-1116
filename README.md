@@ -1,6 +1,7 @@
 ---
   tags: tdd, todo, oop
   languages: ruby
+  resources: 2
 ---
 
 # Anagram Detector
@@ -28,3 +29,6 @@ Write your solution in anagram.rb. Run the tests with `rspec`.
 
 PS. [What is %w?](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean)
 PPS. For a hint, `git checkout hints` and read `HINTS.md`.
+## Resources
+* [StackOverflow](http://stackoverflow.com/) - [Ruby: what does %w(array) mean?](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean), page 
+* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [Chapter 3: Classes, Objects, and Variables](http://books.flatironschool.com/books/11), page 45
