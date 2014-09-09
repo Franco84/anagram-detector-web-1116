@@ -1,5 +1,5 @@
 ---
-  tags: tdd, todo, oop, arrays, match
+  tags: todo, oop, arrays, match
   languages: ruby
   resources: 2
 ---
