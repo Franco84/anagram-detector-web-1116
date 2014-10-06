@@ -1,7 +1,7 @@
 describe 'Anagram' do 
   it 'should detect no matches' do
     detector = Anagram.new('diaper')
-    detector.match(%w(hello world zombies pants dipper)).should eq([])
+    expect(detector.match(%w(hello world zombies pants dipper))).to eq([])
   end
 
   it 'should detect a simple anagram' do
