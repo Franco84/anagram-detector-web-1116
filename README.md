@@ -25,7 +25,7 @@ listen.match(%w(enlists google inlets banana))
 # => ["inlets"]
 ```
 
-Write your solution in anagram.rb. Run the tests with `rspec`.
+Write your solution in anagram.rb. Run the tests with `learn`.
 
 PS. [What is %w?](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean)
 PPS. For a hint, `git checkout hints` and read `HINTS.md`.
