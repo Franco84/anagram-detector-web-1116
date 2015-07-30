@@ -1,8 +1,4 @@
----
-  tags: todo, oop, match
-  languages: ruby
-  resources: 2
----
+
 
 # Anagram Detector
 
