@@ -9,12 +9,9 @@
 You will write a program that, given a word and a list of possible anagrams,
 selects the correct one(s).
 
-Your class, `Anagram` should take a word on initialization, and instances should
-respond to a `match` method that takes an array of possible anagrams. It should return
-all matches in an array. If no matches exist, it should return an empty array.
+Your class, `Anagram` should take a word on initialization, and instances should respond to a `match` method that takes an array of possible anagrams. It should return all matches in an array. If no matches exist, it should return an empty array.
 
-In other words, given: `"listen"` and `%w(enlists google inlets banana)`
-the program should return `["inlets"]`.
+In other words, given: `"listen"` and `%w(enlists google inlets banana)` the program should return `["inlets"]`.
 
 ```ruby
 listen = Anagram.new("listen")
@@ -22,7 +19,7 @@ listen.match(%w(enlists google inlets banana))
 
 # => ["inlets"]
 ```
-**Top Tip:** [%w?(some words)](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean) is simply a shortcut for instantiating and array with items in it!
+**Top Tip:** [%w?(some words)](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean) is simply a shortcut for instantiating an array with items in it!
 
 ## Instructions
 
