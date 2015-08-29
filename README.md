@@ -1,6 +1,6 @@
 # Anagram Detector
 
-## Ojbectives
+## Objectives
 
 1. Build a class with an initialize method and use an `attr_accessor`
 
