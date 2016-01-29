@@ -52,4 +52,4 @@ Two arrays are equal if they contain the same elements, in the same order. Remem
 ## Resources
 * [StackOverflow](http://stackoverflow.com/) - [Ruby: what does %w(array) mean?](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean)
 
-<a href='https://learn.co/lessons/anagram-detector' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/anagram-detector' title='Anagram Detector'>Anagram Detector</a> on Learn.co and start learning to code for free.</p>
