@@ -6,13 +6,11 @@ class Anagram
   end
 
   def match(array)
-    matches = []
-    array.collect do |arrayword|
+    array.map do |arrayword|
       if arrayword.chars.sort.join == @word.chars.sort.join
-        matches << arrayword
+        arrayword
       end
-    end
-    matches
+    end.compact
   end
 
 end
